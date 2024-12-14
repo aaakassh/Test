@@ -1,5 +1,5 @@
 
-# Mega Store Dashboard
+# Super Store Sales Dashboard
 
 ## Problem Statement
 
